@@ -1,5 +1,5 @@
 .homebg{
-    background-image: url('../images/jazzbg.jpg') !important;
+    background-image: url('/jazzbg.jpg') !important;
     background-position: center !important;
     background-attachment: fixed !important;
     background-repeat: no-repeat !important;

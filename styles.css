@@ -1,0 +1,27 @@
+.homebg{
+    background-image: url('../images/jazzbg.jpg') !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+Body{
+    color: white !important;
+}
+
+ol{
+    color: aqua !important;
+}
+
+a{
+    color: plum !important;
+}
+
+div{
+    text-align: justify !important;
+}
+
+h1{
+    text-align: left !important;
+}
